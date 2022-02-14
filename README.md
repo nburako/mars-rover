@@ -1,7 +1,7 @@
 # mars-rover
 
 My solution to well known programming challenge named Mars Rovers with Go. 
-I aimed to practice object oriented approach in go language.
+I aimed to practice object oriented approach in Go language.
 
 # MARS ROVERS
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. 
