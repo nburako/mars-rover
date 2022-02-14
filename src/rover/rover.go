@@ -2,11 +2,6 @@ package rover
 
 import "mars-rover/src/plateau"
 
-type Coordinate struct {
-	X int
-	Y int
-}
-
 type Rover struct {
 	Coordinate
 	Direction
